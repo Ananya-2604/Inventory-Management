@@ -1,0 +1,48 @@
+{
+  "routes": [
+    {
+      "path": "/about",
+      "page": "about.json"
+    },
+    {
+      "path": "/create-customer",
+      "page": "create-customer.json"
+    },
+    {
+      "path": "/create-order",
+      "page": "create-order.json"
+    },
+    {
+      "path": "/create-product",
+      "page": "create-product.json"
+    },
+    {
+      "path": "/customer",
+      "page": "customer.json"
+    },
+    {
+      "path": "/dashboard",
+      "page": "dashboard.json"
+    },
+    {
+      "path": "/login",
+      "page": "login.json"
+    },
+    {
+      "path": "/order-details",
+      "page": "order-details.json"
+    },
+    {
+      "path": "/product",
+      "page": "product.json"
+    },
+    {
+      "path": "/reports",
+      "page": "reports.json"
+    },
+    {
+      "path": "/sales-order",
+      "page": "sales-order.json"
+    }
+  ]
+}
